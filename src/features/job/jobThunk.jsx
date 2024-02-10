@@ -1,7 +1,7 @@
 import customFetch, {
   checkForUnauthorizedResponse,
 } from "../../assets/utils/axios";
-import { getAllJobs, hideLoading, showLoading } from "../alljobs/allJobsSlice";
+import { getAllJobs, hideLoading, showLoading } from "../allJobs/allJobsSlice";
 import { clearValues } from "./jobSlice";
 
 export const createJobThunk = async (job, thunkAPI) => {
