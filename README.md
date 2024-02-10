@@ -1,3 +1,7 @@
+#url
+
+https://jobfy-react-course.netlify.app/
+
 # Jobster
 
 Project in Action - [Jobster](https://redux-toolkit-jobster.netlify.app/)
